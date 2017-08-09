@@ -1,0 +1,6 @@
+hash: 24d425578b826a7860eec61898f226368d86c87c6c2e2b4d025ed4060763f260
+updated: 2017-08-09T12:46:09.716486017-04:00
+imports:
+- name: github.com/stretchr/gomniauth.git
+  version: 4b6c822be2eb64551618722ff80cecde4d63d9be
+testImports: []

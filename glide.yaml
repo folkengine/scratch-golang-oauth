@@ -1,0 +1,3 @@
+package: github.com/folkengine/scratch-golang-oauth
+import:
+- package: github.com/stretchr/gomniauth.git
